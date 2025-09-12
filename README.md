@@ -5,13 +5,12 @@
 **Construire des projets. Apprendre. Se surpasser.**  
 Projets 42 du tronc-commun & projets personnels.
 
-<!-- Badges -->
-<!-- <a href="https://github.com/sbrbe?tab=followers">
-  <img alt="Abonnés GitHub" src="https://img.shields.io/github/followers/sbrbe?style=for-the-badge&label=Abonnés&logo=github">
-</a>
-<a href="https://github.com/sbrbe">
-  <img alt="Vues du profil" src="https://komarev.com/ghpvc/?username=sbrbe&style=for-the-badge&color=brightgreen&label=Vues+profil">
-</a> -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Stage-6%20mois-brightgreen?style=for-the-badge&logo=github" alt="Stage 6 mois">
+  <img src="https://img.shields.io/badge/Domaine-Informatique-blue?style=for-the-badge&logo=codeforces" alt="Domaine Informatique">
+  <img src="https://img.shields.io/badge/Disponibilit%C3%A9-imm%C3%A9diate-orange?style=for-the-badge&logo=rocket" alt="Disponibilité immédiate">
+</p>
+
 
 </div>
 
