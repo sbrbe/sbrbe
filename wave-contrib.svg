@@ -1,0 +1,202 @@
+<svg width="720" height="140" viewBox="0 0 720 140" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .c { rx:3; ry:3; width:12px; height:12px; fill:#e6edf3; } /* fond gris bleu */
+    .g { fill:#2ea043; } /* vert GitHub */
+    @keyframes wave {
+      0%   { opacity:0.15; }
+      40%  { opacity:1;    }
+      100% { opacity:0.15; }
+    }
+  </style>
+
+  <!-- grille 10 x 7 (colonnes x lignes) -->
+  <!-- pas horizontal = 14px, pas vertical = 14px, marges 8px -->
+  <!-- fond (toutes cases "vides") -->
+  <g id="grid">
+    <!-- lignes -->
+    <!-- génère les 70 cases de fond -->
+    <!-- (10 colonnes, 7 lignes) -->
+    <!-- ligne 0..6 -->
+    <!-- On dessine tout le fond en clair -->
+    <!-- Tu peux ignorer le détail, c’est juste des rectangles -->
+    <!-- Génération “manuelle” compacte -->
+    <!-- row loop -->
+    <!-- r=0..6 -->
+    <!-- c=0..9 -->
+    <!-- On place chaque case à x=8+c*14, y=8+r*14 -->
+    <!-- On met une classe .c pour le fond -->
+    <!-- BEGIN GRID -->
+    <!-- Row 0 -->
+    <rect class="c" x="8" y="8"  width="12" height="12" />
+    <rect class="c" x="22" y="8" width="12" height="12" />
+    <rect class="c" x="36" y="8" width="12" height="12" />
+    <rect class="c" x="50" y="8" width="12" height="12" />
+    <rect class="c" x="64" y="8" width="12" height="12" />
+    <rect class="c" x="78" y="8" width="12" height="12" />
+    <rect class="c" x="92" y="8" width="12" height="12" />
+    <rect class="c" x="106" y="8" width="12" height="12" />
+    <rect class="c" x="120" y="8" width="12" height="12" />
+    <rect class="c" x="134" y="8" width="12" height="12" />
+    <!-- Row 1 -->
+    <rect class="c" x="8" y="22" width="12" height="12" />
+    <rect class="c" x="22" y="22" width="12" height="12" />
+    <rect class="c" x="36" y="22" width="12" height="12" />
+    <rect class="c" x="50" y="22" width="12" height="12" />
+    <rect class="c" x="64" y="22" width="12" height="12" />
+    <rect class="c" x="78" y="22" width="12" height="12" />
+    <rect class="c" x="92" y="22" width="12" height="12" />
+    <rect class="c" x="106" y="22" width="12" height="12" />
+    <rect class="c" x="120" y="22" width="12" height="12" />
+    <rect class="c" x="134" y="22" width="12" height="12" />
+    <!-- Row 2 -->
+    <rect class="c" x="8" y="36" width="12" height="12" />
+    <rect class="c" x="22" y="36" width="12" height="12" />
+    <rect class="c" x="36" y="36" width="12" height="12" />
+    <rect class="c" x="50" y="36" width="12" height="12" />
+    <rect class="c" x="64" y="36" width="12" height="12" />
+    <rect class="c" x="78" y="36" width="12" height="12" />
+    <rect class="c" x="92" y="36" width="12" height="12" />
+    <rect class="c" x="106" y="36" width="12" height="12" />
+    <rect class="c" x="120" y="36" width="12" height="12" />
+    <rect class="c" x="134" y="36" width="12" height="12" />
+    <!-- Row 3 -->
+    <rect class="c" x="8" y="50" width="12" height="12" />
+    <rect class="c" x="22" y="50" width="12" height="12" />
+    <rect class="c" x="36" y="50" width="12" height="12" />
+    <rect class="c" x="50" y="50" width="12" height="12" />
+    <rect class="c" x="64" y="50" width="12" height="12" />
+    <rect class="c" x="78" y="50" width="12" height="12" />
+    <rect class="c" x="92" y="50" width="12" height="12" />
+    <rect class="c" x="106" y="50" width="12" height="12" />
+    <rect class="c" x="120" y="50" width="12" height="12" />
+    <rect class="c" x="134" y="50" width="12" height="12" />
+    <!-- Row 4 -->
+    <rect class="c" x="8" y="64" width="12" height="12" />
+    <rect class="c" x="22" y="64" width="12" height="12" />
+    <rect class="c" x="36" y="64" width="12" height="12" />
+    <rect class="c" x="50" y="64" width="12" height="12" />
+    <rect class="c" x="64" y="64" width="12" height="12" />
+    <rect class="c" x="78" y="64" width="12" height="12" />
+    <rect class="c" x="92" y="64" width="12" height="12" />
+    <rect class="c" x="106" y="64" width="12" height="12" />
+    <rect class="c" x="120" y="64" width="12" height="12" />
+    <rect class="c" x="134" y="64" width="12" height="12" />
+    <!-- Row 5 -->
+    <rect class="c" x="8" y="78" width="12" height="12" />
+    <rect class="c" x="22" y="78" width="12" height="12" />
+    <rect class="c" x="36" y="78" width="12" height="12" />
+    <rect class="c" x="50" y="78" width="12" height="12" />
+    <rect class="c" x="64" y="78" width="12" height="12" />
+    <rect class="c" x="78" y="78" width="12" height="12" />
+    <rect class="c" x="92" y="78" width="12" height="12" />
+    <rect class="c" x="106" y="78" width="12" height="12" />
+    <rect class="c" x="120" y="78" width="12" height="12" />
+    <rect class="c" x="134" y="78" width="12" height="12" />
+    <!-- Row 6 -->
+    <rect class="c" x="8" y="92" width="12" height="12" />
+    <rect class="c" x="22" y="92" width="12" height="12" />
+    <rect class="c" x="36" y="92" width="12" height="12" />
+    <rect class="c" x="50" y="92" width="12" height="12" />
+    <rect class="c" x="64" y="92" width="12" height="12" />
+    <rect class="c" x="78" y="92" width="12" height="12" />
+    <rect class="c" x="92" y="92" width="12" height="12" />
+    <rect class="c" x="106" y="92" width="12" height="12" />
+    <rect class="c" x="120" y="92" width="12" height="12" />
+    <rect class="c" x="134" y="92" width="12" height="12" />
+    <!-- END GRID -->
+  </g>
+
+  <!-- vague animée : on anime l’opacité d’un motif diagonal qui traverse la grille -->
+  <g id="wave">
+    <!-- on crée 20 “pings” verts, décalés dans le temps et l’espace -->
+    <!-- chaque rect vert s’anime (opacity) avec un delay, simulant une vague -->
+    <g class="g">
+      <!-- générateur simple : 20 cases placées en diagonale, puis on boucle via durées -->
+      <!-- tu peux dupliquer pour une vague plus longue -->
+      <!-- i=0..19 -->
+      <!-- calc: col = (i % 10), row = (i % 7) -->
+      <!-- delay = i*0.12s -->
+      <!-- On écrit explicitement pour simplicité -->
+      <!-- i=0 -->
+      <rect x="8"  y="8"  width="12" height="12">
+        <animate attributeName="opacity" values="0.15;1;0.15" dur="2.4s" begin="0s" repeatCount="indefinite"/>
+      </rect>
+      <!-- i=1 -->
+      <rect x="22" y="22" width="12" height="12">
+        <animate attributeName="opacity" values="0.15;1;0.15" dur="2.4s" begin="0.12s" repeatCount="indefinite"/>
+      </rect>
+      <!-- i=2 -->
+      <rect x="36" y="36" width="12" height="12">
+        <animate attributeName="opacity" values="0.15;1;0.15" dur="2.4s" begin="0.24s" repeatCount="indefinite"/>
+      </rect>
+      <!-- i=3 -->
+      <rect x="50" y="50" width="12" height="12">
+        <animate attributeName="opacity" values="0.15;1;0.15" dur="2.4s" begin="0.36s" repeatCount="indefinite"/>
+      </rect>
+      <!-- i=4 -->
+      <rect x="64" y="64" width="12" height="12">
+        <animate attributeName="opacity" values="0.15;1;0.15" dur="2.4s" begin="0.48s" repeatCount="indefinite"/>
+      </rect>
+      <!-- i=5 -->
+      <rect x="78" y="78" width="12" height="12">
+        <animate attributeName="opacity" values="0.15;1;0.15" dur="2.4s" begin="0.60s" repeatCount="indefinite"/>
+      </rect>
+      <!-- i=6 -->
+      <rect x="92" y="92" width="12" height="12">
+        <animate attributeName="opacity" values="0.15;1;0.15" dur="2.4s" begin="0.72s" repeatCount="indefinite"/>
+      </rect>
+      <!-- i=7 -->
+      <rect x="106" y="8" width="12" height="12">
+        <animate attributeName="opacity" values="0.15;1;0.15" dur="2.4s" begin="0.84s" repeatCount="indefinite"/>
+      </rect>
+      <!-- i=8 -->
+      <rect x="120" y="22" width="12" height="12">
+        <animate attributeName="opacity" values="0.15;1;0.15" dur="2.4s" begin="0.96s" repeatCount="indefinite"/>
+      </rect>
+      <!-- i=9 -->
+      <rect x="134" y="36" width="12" height="12">
+        <animate attributeName="opacity" values="0.15;1;0.15" dur="2.4s" begin="1.08s" repeatCount="indefinite"/>
+      </rect>
+      <!-- i=10 -->
+      <rect x="8" y="50" width="12" height="12">
+        <animate attributeName="opacity" values="0.15;1;0.15" dur="2.4s" begin="1.20s" repeatCount="indefinite"/>
+      </rect>
+      <!-- i=11 -->
+      <rect x="22" y="64" width="12" height="12">
+        <animate attributeName="opacity" values="0.15;1;0.15" dur="2.4s" begin="1.32s" repeatCount="indefinite"/>
+      </rect>
+      <!-- i=12 -->
+      <rect x="36" y="78" width="12" height="12">
+        <animate attributeName="opacity" values="0.15;1;0.15" dur="2.4s" begin="1.44s" repeatCount="indefinite"/>
+      </rect>
+      <!-- i=13 -->
+      <rect x="50" y="92" width="12" height="12">
+        <animate attributeName="opacity" values="0.15;1;0.15" dur="2.4s" begin="1.56s" repeatCount="indefinite"/>
+      </rect>
+      <!-- i=14 -->
+      <rect x="64" y="8" width="12" height="12">
+        <animate attributeName="opacity" values="0.15;1;0.15" dur="2.4s" begin="1.68s" repeatCount="indefinite"/>
+      </rect>
+      <!-- i=15 -->
+      <rect x="78" y="22" width="12" height="12">
+        <animate attributeName="opacity" values="0.15;1;0.15" dur="2.4s" begin="1.80s" repeatCount="indefinite"/>
+      </rect>
+      <!-- i=16 -->
+      <rect x="92" y="36" width="12" height="12">
+        <animate attributeName="opacity" values="0.15;1;0.15" dur="2.4s" begin="1.92s" repeatCount="indefinite"/>
+      </rect>
+      <!-- i=17 -->
+      <rect x="106" y="50" width="12" height="12">
+        <animate attributeName="opacity" values="0.15;1;0.15" dur="2.4s" begin="2.04s" repeatCount="indefinite"/>
+      </rect>
+      <!-- i=18 -->
+      <rect x="120" y="64" width="12" height="12">
+        <animate attributeName="opacity" values="0.15;1;0.15" dur="2.4s" begin="2.16s" repeatCount="indefinite"/>
+      </rect>
+      <!-- i=19 -->
+      <rect x="134" y="78" width="12" height="12">
+        <animate attributeName="opacity" values="0.15;1;0.15" dur="2.4s" begin="2.28s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+</svg>
