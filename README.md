@@ -2,54 +2,47 @@
 
 # Salut 👋
 
-**Construire des projets cool. Apprendre vite. Livrer souvent.**  
-Applis, automatisations & interfaces ludiques.
+**Construire des projets. Apprendre. Se surpasser.**  
+Projets 42 du tronc-commun.
 
 <!-- Badges -->
-<a href="https://github.com/sbrbe?tab=followers">
+<!-- <a href="https://github.com/sbrbe?tab=followers">
   <img alt="Abonnés GitHub" src="https://img.shields.io/github/followers/sbrbe?style=for-the-badge&label=Abonnés&logo=github">
 </a>
 <a href="https://github.com/sbrbe">
   <img alt="Vues du profil" src="https://komarev.com/ghpvc/?username=sbrbe&style=for-the-badge&color=brightgreen&label=Vues+profil">
-</a>
+</a> -->
 
 </div>
 
 ---
 
-### 🎞️ Contributions (loop animée)
-> Pixel-art runner + OVNI (boucle parfaite)
-
 <p align="center">
   <img src="./mario_ufo_loop.gif" alt="Mario-like UFO loop" width="720">
 </p>
 
-<!-- Tu peux réactiver la vague si tu veux alterner : -->
-<!-- <p align="center"><img src="./github_green_wave.gif" alt="Green wave" width="720"></p> -->
+---
+
+### Projets phares 42
+- **ft_transcendence** — site web full-stack, microservices, mode en ligne, collaboration.  
+- **miniRt** — Algorithmes, maths appliquées, C, Rendu 3D (ray-tracing), collaboration.  
+- **minishell** — recréation d'un shell type Bash en C, collaboration.  
 
 ---
 
-### 🚀 Projets (sélection)
-- **Pong Online** — moteur 100% backend (WebSocket), rendu frontend léger, matchmaking 1v1.  
-- **Automatisations WP/n8n** — génération d’articles, traduction NL-BE, publication auto, maillage interne.  
-- **Scrapers BE** — BCE / BNB / Moniteur : extraction fiable + Excel/CSV, logs & reprise.  
-
-> 👉 Envie du moment : microservices (Fastify), jobs CRON propres, front minimal & rapide.
+### Compétences & outils
+`TypeScript` · `JavaScript` · `C` · `C++` · `HTML` · `Node.js` · `Fastify` · `WebSocket`  
+`Docker` · `SQLite` · `Nginx` · `n8n` · `ImageKit` · `Cloudinary` · `Firebase`
 
 ---
 
-### 🧰 Tech & Outils
-`TypeScript` · `Node.js` · `Fastify` · `WebSocket` · `Python` · `Pandas` · `Selenium`  
-`Docker` · `SQLite` · `WordPress API` · `Polylang` · `n8n` · `ImageKit` · `Cloudinary`
-
----
-
-### 📌 Ce qui compte pour moi
+### Ce qui compte pour moi
+- **Travail d'équipe** → organisation, peer learning.  
 - **Clarté d’abord** → interfaces épurées, code lisible, erreurs explicites.  
-- **Livrer vite** → prototypes utiles > promesses.  
-- **Expérience dev** → scripts, README & exemples prêts à l’emploi.
+- **Apprendre** → Toujours relever de nouveaux défis, apprendre de nouveaux langages.
 
 ---
 
-### 📫 Contact
-DM sur GitHub ou ouvre une issue — je lis tout.
+### Contact
+[LinkedIn](https://www.linkedin.com/in/simon-barbé-b77792364) — je lis tout.
+
