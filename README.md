@@ -1,6 +1,7 @@
 ## Hi there 👋
 ### Contributions (vague animée)
-![Wave](./wave-contrib.svg)
+![Green wave](./github_green_wave.gif)
+<!-- ![Wave](./wave-contrib.svg) -->
 
 
 <!--
