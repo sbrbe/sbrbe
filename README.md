@@ -6,7 +6,7 @@
 Projets 42 du tronc-commun & projets personnels.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Stage-6%20mois-brightgreen?style=for-the-badge&logo=github" alt="Stage 6 mois">
+  <img src="https://img.shields.io/badge/Stage-6%20mois-brightgreen?style=for-the-badge&logo=github" alt="Recherche Stage 6 mois">
   <img src="https://img.shields.io/badge/Domaine-Informatique-blue?style=for-the-badge&logo=codeforces" alt="Domaine Informatique">
   <img src="https://img.shields.io/badge/Disponibilit%C3%A9-imm%C3%A9diate-orange?style=for-the-badge&logo=rocket" alt="Disponibilité immédiate">
 </p>
