@@ -6,10 +6,17 @@
 Projets 42 du tronc-commun & projets personnels.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Stage-6%20mois-brightgreen?style=for-the-badge&logo=github" alt="Recherche Stage 6 mois">
-  <img src="https://img.shields.io/badge/Domaine-Informatique-blue?style=for-the-badge&logo=codeforces" alt="Domaine Informatique">
-  <img src="https://img.shields.io/badge/Disponibilit%C3%A9-imm%C3%A9diate-orange?style=for-the-badge&logo=rocket" alt="Disponibilité immédiate">
+  <a href="https://www.linkedin.com/in/simon-barbé-b77792364">
+    <img src="https://img.shields.io/badge/Recherche-Stage%206%20mois-brightgreen?style=for-the-badge&logo=rocket" alt="Recherche Stage 6 mois">
+  </a>
+  <a href="https://github.com/sbrbe">
+    <img src="https://img.shields.io/badge/Domaine-Informatique-blue?style=for-the-badge&logo=codeforces" alt="Domaine Informatique">
+  </a>
+  <a href="https://tonlienverscv.com">
+    <img src="https://img.shields.io/badge/CV-Disponible-orange?style=for-the-badge&logo=readme" alt="CV Disponible">
+  </a>
 </p>
+
 
 
 </div>
