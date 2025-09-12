@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### Contributions (vague animée)
 <!-- ![Green wave](./github_green_wave.gif) -->
-![Wave](./wave-contrib.py)
+![Mario-like UFO loop](./mario_ufo_loop.gif)
 
 
 <!--
