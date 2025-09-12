@@ -3,7 +3,7 @@
 # Salut 👋
 
 **Construire des projets. Apprendre. Se surpasser.**  
-Projets 42 du tronc-commun.
+Projets 42 du tronc-commun & projets personnels.
 
 <!-- Badges -->
 <!-- <a href="https://github.com/sbrbe?tab=followers">
