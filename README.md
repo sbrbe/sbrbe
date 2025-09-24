@@ -1,6 +1,6 @@
 <div align="center">
 
-# Bienvenue le GitHub de sbrbe
+# Bienvenue sur le GitHub de sbrbe
 
 **Construire des projets. Apprendre. Se surpasser.**  
 Projets 42 du tronc-commun & projets personnels.
