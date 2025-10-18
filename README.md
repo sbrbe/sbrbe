@@ -7,13 +7,13 @@ Projets 42 du tronc-commun & projets personnels.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/simon-barbé-b77792364">
-    <img src="https://img.shields.io/badge/Recherche-Stage%206%20mois-brightgreen?style=for-the-badge&logo=rocket" alt="Recherche Stage 6 mois">
+    <img src="https://img.shields.io/badge/Recherche-Stage%206%20mois-brightgreen?style=for-the-badge&logo=rocket" alt="Stagiaire">
   </a>
   <a href="https://github.com/sbrbe">
-    <img src="https://img.shields.io/badge/Domaine-Informatique-blue?style=for-the-badge&logo=codeforces" alt="Domaine Informatique">
+    <img src="https://img.shields.io/badge/Domaine-Informatique-blue?style=for-the-badge&logo=codeforces" alt="Développeur">
   </a>
   <a href="https://tonlienverscv.com">
-    <img src="https://img.shields.io/badge/CV-Disponible-orange?style=for-the-badge&logo=readme" alt="CV Disponible">
+    <img src="https://img.shields.io/badge/CV-Disponible-orange?style=for-the-badge&logo=readme" alt="Climatherm">
   </a>
 </p>
 
