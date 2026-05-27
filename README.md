@@ -7,7 +7,7 @@ Projets 42 du tronc-commun & projets personnels.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/simon-barbé-b77792364">
-    <img src="https://img.shields.io/badge/Stagiaire-brightgreen?style=for-the-badge&logo=rocket" alt="Stagiaire">
+    <img src="https://img.shields.io/badge/Stagiaire-brightgreen?style=for-the-badge&logo=rocket" alt="Alternant">
   </a>
   <a href="https://www.climatherm66.com">
     <img src="https://img.shields.io/badge/Climatherm-orange?style=for-the-badge&logo=readme" alt="Climatherm">
